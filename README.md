@@ -13,7 +13,7 @@ Dynamic Programming
   - [x] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
   - [x] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
 - Solve the following MISC problems:
-  - [ ] [Cutting](https://codeforces.com/problemset/problem/998/B)
+  - [x] [Cutting](https://codeforces.com/problemset/problem/998/B)
   - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
   - [ ] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
